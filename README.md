@@ -16,4 +16,4 @@ code .
 ## Contributing
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 ## License
-[MIT](C:\Users\adsız\Desktop\html_odev\LICENSE)
+[MIT](https://github.com/aydar2121/kodluyoruzilkrepo/blob/main/LICENSE)
